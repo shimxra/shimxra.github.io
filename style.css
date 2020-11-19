@@ -92,8 +92,8 @@ h2:after {
 .cards .card,
 .news .card {
   margin: 25px;
-  width: 350px;
-  height: 437.5px;;
+  width: 375px;
+  height: 468.75;;
   overflow: hidden;
   box-shadow: 0 5px 10px rgba(0,0,0,0.8);
   transform-origin: center top;
