@@ -1,1 +1,0 @@
-# shimxra.github.io
